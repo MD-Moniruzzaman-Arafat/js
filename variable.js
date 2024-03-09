@@ -30,5 +30,6 @@ console.log(123myAge) */
 /* var $cityName = "dhaka";
 console.log($cityName); */
 
-var my@Email = "arafat@gmail.com"
-console.log(my@Email)
+// invalid: its use @ sign
+/* var my@Email = "arafat@gmail.com"
+console.log(my@Email) */
